@@ -1,2 +1,0 @@
-# TechTune-motors-project
- tie
